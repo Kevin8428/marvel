@@ -1,0 +1,95 @@
+html	/Users/kdeutscher/Desktop/marvel_final/index.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/kdeutscher/Desktop/marvel_final/index.html	/^  <head>$/;"	function	line:3
+meta	/Users/kdeutscher/Desktop/marvel_final/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
+meta	/Users/kdeutscher/Desktop/marvel_final/index.html	/^    <meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:5
+meta	/Users/kdeutscher/Desktop/marvel_final/index.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:6
+title	/Users/kdeutscher/Desktop/marvel_final/index.html	/^    <title>jQuery Simple Menu Demo<\/title>$/;"	function	line:7
+script	/Users/kdeutscher/Desktop/marvel_final/index.html	/^    <script src="http:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.11.2\/jquery.min.js"> <\/script>$/;"	function	line:8
+script	/Users/kdeutscher/Desktop/marvel_final/index.html	/^    <script src="http:\/\/code.jquery.com\/jquery-latest.min.js" type="text\/javascript"><\/script>$/;"	function	line:9
+script	/Users/kdeutscher/Desktop/marvel_final/index.html	/^    <script src="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery\/3.1.1\/jquery.min.js"type="text\/javascript"><\/script>$/;"	function	line:10
+link	/Users/kdeutscher/Desktop/marvel_final/index.html	/^    <link rel="stylesheet" href="looper.css">$/;"	function	line:11
+script	/Users/kdeutscher/Desktop/marvel_final/index.html	/^    <script src="looper.js">$/;"	function	line:12
+script	/Users/kdeutscher/Desktop/marvel_final/index.html	/^    <script src="app.js"><\/script>$/;"	function	line:15
+link	/Users/kdeutscher/Desktop/marvel_final/index.html	/^    <link rel="stylesheet" href="style.css" media="screen" title="no title">$/;"	function	line:16
+body	/Users/kdeutscher/Desktop/marvel_final/index.html	/^  <body>$/;"	function	line:18
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^    <div class="container">$/;"	function	line:19
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^      <div class="col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2">$/;"	function	line:21
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^        <div class="mobilenav">$/;"	function	line:23
+li	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <li><a href="#">Home<\/a><\/li>$/;"	function	line:24
+li	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <li><a href="#">Services<\/a><\/li>$/;"	function	line:25
+li	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <li><a href="#">About<\/a><\/li>$/;"	function	line:26
+li	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <li><a href="#">Blog<\/a><\/li>$/;"	function	line:27
+li	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <li><a href="#">Contact<\/a><\/li>$/;"	function	line:28
+a	/Users/kdeutscher/Desktop/marvel_final/index.html	/^        <a href="javascript:void(0)" class="icon">$/;"	function	line:31
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^           <div class="hamburger">$/;"	function	line:32
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^             <div class="menui top-menu"><\/div>$/;"	function	line:33
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^             <div class="menui mid-menu"><\/div>$/;"	function	line:34
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^             <div class="menui bottom-menu"><\/div>$/;"	function	line:35
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^      <div class="header-container-outer">$/;"	function	line:39
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^        <div class="header-container">$/;"	function	line:40
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <div class="icon-container">$/;"	function	line:41
+img	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <img src="images\/logo.png" alt="marvel" \/>$/;"	function	line:42
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <div class="slogan-container">$/;"	function	line:44
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <div class="nav-container">$/;"	function	line:47
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <div class="col-three nav-item" id="home-link"><a href="file:\/\/\/Users\/kdeutscher\/Desktop\/marvel_final\/index.html">Home<\/a><\/div>$/;"	function	line:48
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <div class="col-three nav-item" id="services-link"><a href="file:\/\/\/Users\/kdeutscher\/Desktop\/marvel_final\/services.html#">Services<\/a><\/div>$/;"	function	line:49
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <div class="col-three nav-item" id="about-link"><a href="file:\/\/\/Users\/kdeutscher\/Desktop\/marvel_final\/about.html">About<\/a><\/div>$/;"	function	line:50
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <div class="col-three nav-item" id="pictures-link"><a href="file:\/\/\/Users\/kdeutscher\/Desktop\/marvel_final\/photos.html">Pictures<\/a><\/div>$/;"	function	line:51
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <div class="col-three nav-item" id="contact-link"><a href="file:\/\/\/Users\/kdeutscher\/Desktop\/marvel_final\/contact.html">Contact<\/a><\/div>$/;"	function	line:52
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^      <div id="controlLooper" data-looper="go" class="looper slide"><!-- CAROUSEL CONTAINER -->$/;"	function	line:56
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^        <div class="looper-inner">$/;"	function	line:57
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <div class="item">$/;"	function	line:58
+img	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <img src="images\/house.jpg" alt="">$/;"	function	line:59
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <div class="item">$/;"	function	line:61
+img	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <img src="images\/houseTwo.jpg" alt="">$/;"	function	line:62
+nav	/Users/kdeutscher/Desktop/marvel_final/index.html	/^        <nav>$/;"	function	line:65
+a	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <a class="looper-control" data-looper="prev" href="#controlLooper">$/;"	function	line:66
+i	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <i class="icon-chevron-left"><\/i>$/;"	function	line:67
+a	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <a class="looper-control right" data-looper="next" href="#controlLooper">$/;"	function	line:69
+i	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <i class="icon-chevron-right"><\/i>$/;"	function	line:70
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^      <div class="content-container">$/;"	function	line:74
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^        <div class="content-top-bar"><\/div>$/;"	function	line:75
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^        <div class="content-header">$/;"	function	line:76
+h	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <h1>Building a great reputation<\/h1>$/;"	function	line:77
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^        <div class="content-sidebar">$/;"	function	line:79
+ul	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <ul>$/;"	function	line:80
+li	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <li>Experienced<\/li>$/;"	function	line:81
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <div class="li-description">Multiple full time employees with more than 20 years experience.<\/div>$/;"	function	line:82
+li	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <li>Reputable<\/li>$/;"	function	line:83
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <div class="li-description">Hundreds of testemonials from a variety of clients and project types.<\/div>$/;"	function	line:84
+li	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <li>Dedicated<\/li>$/;"	function	line:85
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <div class="li-description">Start to finish determination to deliver 100% satisfaction. Every time.<\/div>$/;"	function	line:86
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^        <div class="content-description">$/;"	function	line:89
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^      <div class="services-container">$/;"	function	line:93
+h	/Users/kdeutscher/Desktop/marvel_final/index.html	/^        <h2><span class="line-center">What We Do<\/span><\/h2>$/;"	function	line:94
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^        <div class="services-inner">$/;"	function	line:95
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <div class="services-section">$/;"	function	line:96
+h	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <h3>Home Additions<\/h3>$/;"	function	line:97
+img	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <img src="images\/additions_wide.jpg" alt="" style="height: 46%;">$/;"	function	line:98
+p	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing...<\/p>$/;"	function	line:99
+button	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <button type="button" id="home-additions-button" >Learn More<\/button>$/;"	function	line:100
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <div class="services-section">$/;"	function	line:102
+h	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <h3>Carpentry<\/h3>$/;"	function	line:103
+img	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <img src="images\/wider_laundry.png" alt="">$/;"	function	line:104
+p	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing...<\/p>$/;"	function	line:105
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <div class="services-section">$/;"	function	line:107
+h	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <h3>Remodeling<\/h3>$/;"	function	line:108
+img	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <img src="images\/wider_laundry.png" alt="">$/;"	function	line:109
+p	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing...<\/p>$/;"	function	line:110
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <div class="services-section">$/;"	function	line:112
+h	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <h3>Waste Cleanup<\/h3>$/;"	function	line:113
+img	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <img src="images\/wider_laundry.png" alt="">$/;"	function	line:114
+p	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing...<\/p>$/;"	function	line:115
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^        <div class="footer-container">$/;"	function	line:119
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^          <div class="footer-inner">$/;"	function	line:120
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <div class="footer-section">$/;"	function	line:121
+h	/Users/kdeutscher/Desktop/marvel_final/index.html	/^              <h3>Photos<\/h3>$/;"	function	line:122
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <div class="footer-section">$/;"	function	line:124
+h	/Users/kdeutscher/Desktop/marvel_final/index.html	/^              <h3>Testimonials<\/h3>$/;"	function	line:125
+br	/Users/kdeutscher/Desktop/marvel_final/index.html	/^              <br>$/;"	function	line:126
+q	/Users/kdeutscher/Desktop/marvel_final/index.html	/^              <q>Crapstar is the coolest person I've ever met<\/q>$/;"	function	line:127
+div	/Users/kdeutscher/Desktop/marvel_final/index.html	/^            <div class="footer-section">$/;"	function	line:129
+h	/Users/kdeutscher/Desktop/marvel_final/index.html	/^              <h3>Contact Us Today<\/h3>$/;"	function	line:130
+br	/Users/kdeutscher/Desktop/marvel_final/index.html	/^              <br>$/;"	function	line:131
+br	/Users/kdeutscher/Desktop/marvel_final/index.html	/^              <br>$/;"	function	line:133
+br	/Users/kdeutscher/Desktop/marvel_final/index.html	/^              <br>$/;"	function	line:135
