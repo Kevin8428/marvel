@@ -1,3 +1,9 @@
+.temp-class{
+  min-height: 600px;
+}
+#home-additions-button {
+  height: 20px;
+}
 *{
  margin:0;
  padding:0;
