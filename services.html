@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>jQuery Simple Menu Demo</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"> </script>
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"type="text/javascript"></script>
+    <link rel="stylesheet" href="looper.css">
+    <script src="looper.js">
+    </script>
+    <script src="app.js"></script>
+    <link rel="stylesheet" href="style.css" media="screen" title="no title">
+    <link rel="stylesheet" href="enlarge-photo.css" media="screen" title="no title">
+  </head>
+  <body>
+    <div class="container">
+      <div class="col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2"><!-- MOBILE NAV CONTAINER -->
+        <div class="mobilenav"> <!-- THIS IS THE MENU -->
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Contact</a></li>
+        </div>
+        <a href="javascript:void(0)" class="icon"><!-- THIS IS THE ICON -->
+           <div class="hamburger">
+             <div class="menui top-menu"></div>
+             <div class="menui mid-menu"></div>
+             <div class="menui bottom-menu"></div>
+           </div>
+        </a>
+      </div><!--END MOBILE NAV CONTAINER-->
+      <div class="header-container-outer"><!-- HEADER CONTAINER -->
+        <div class="header-container">
+          <div class="icon-container">
+            <img src="images/logo.png" alt="marvel" />
+          </div>
+          <div class="slogan-container">
+            Building a Great Reputation
+          </div>
+          <div class="nav-container">
+              <div class="col-three nav-item" id="home-link"><a href="file:///Users/kdeutscher/Desktop/Marvel_two/index.html">Home</a></div>
+              <div class="col-three nav-item" id="services-link"><a href="file:///Users/kdeutscher/Desktop/Marvel_two/services.html#">Services</a></div>
+              <div class="col-three nav-item" id="about-link"><a href="file:///Users/kdeutscher/Desktop/Marvel_two/about.html">About</a></div>
+              <div class="col-three nav-item" id="pictures-link"><a href="file:///Users/kdeutscher/Desktop/Marvel_two/pictures.html">Pictures</a></div>
+              <div class="col-three nav-item" id="contact-link"><a href="file:///Users/kdeutscher/Desktop/Marvel_two/contact.html">Contact</a></div>
+          </div>
+        </div>
+      </div> <!-- END HEADER CONTAINER -->
+      <div class="services-container">
+        <div class="services-inner">
+          <div class="services-section">
+            <h3>Home Additions</h3>
+            <img src="images/additions_wide.jpg" alt="" style="height: 46%;">
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing...</p>
+          </div>
+          <div class="services-section">
+            <h3>Carpentry</h3>
+            <img src="images/wider_laundry.png" alt="">
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing...</p>
+          </div>
+          <div class="services-section">
+            <h3>Remodeling</h3>
+            <img src="images/wider_laundry.png" alt="">
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing...</p>
+          </div>
+          <div class="services-section">
+            <h3>Waste Cleanup</h3>
+            <img src="images/wider_laundry.png" alt="">
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing...</p>
+          </div>
+        </div>
+        <div class="content-container services" id="home-additions">
+          <div class="content-top-bar"></div>
+            <div class="content-header">
+              <h1>Home Additions</h1>
+            </div>
+            <div class="content-sidebar">
+              <ul>
+                <li>Experienced</li>
+                <div class="li-description">Multiple full time employees with more than 20 years experience.</div>
+                <li>Reputable</li>
+                <div class="li-description">Hundreds of testemonials from a variety of clients and project types.</div>
+                <li>Dedicated</li>
+                <div class="li-description">Start to finish determination to deliver 100% satisfaction. Every time.</div>
+              </ul>
+            </div>
+            <div class="content-description">
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+            </div>
+            <a class="lightbox" href="#house">
+               <img src="images/house.jpg" alt="">
+               <img src="images/house.jpg" alt="">
+               <img src="images/house.jpg" alt="">
+            </a>
+            <div class="lightbox-target" id="house">
+               <img src="images/house.jpg" alt="">
+               <a class="lightbox-close" href="#test"></a>
+            </div>
+          </div>
+        </div><!-- END HOME ADDITIONS -->
+        <div class="content-container services" id="carpentry"> <!-- CARPENTRY -->
+          <div class="content-top-bar"></div>
+            <div class="content-header">
+              <h1>Carpentry</h1>
+            </div>
+            <div class="content-sidebar">
+              <ul>
+                <li>Experienced</li>
+                <div class="li-description">Multiple full time employees with more than 20 years experience.</div>
+                <li>Reputable</li>
+                <div class="li-description">Hundreds of testemonials from a variety of clients and project types.</div>
+                <li>Dedicated</li>
+                <div class="li-description">Start to finish determination to deliver 100% satisfaction. Every time.</div>
+              </ul>
+            </div>
+            <div class="content-description">
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+            </div>
+          <a class="lightbox" href="#house-two">
+             <img src="images/houseTwo.jpg" alt="">
+             <img src="images/houseTwo.jpg" alt="">
+             <img src="images/houseTwo.jpg" alt="">
+          </a>
+          <div class="lightbox-target" id="house-two">
+             <img src="images/houseTwo.jpg" alt="">
+             <a class="lightbox-close" href="#test"></a>
+          </div>
+        </div><!-- END CARPENTRY -->
+        <div class="content-container services" id="remodeling"> <!-- REMODELING -->
+          <div class="content-top-bar"></div>
+            <div class="content-header">
+              <h1>Remodeling</h1>
+            </div>
+            <div class="content-sidebar">
+              <ul>
+                <li>Experienced</li>
+                <div class="li-description">Multiple full time employees with more than 20 years experience.</div>
+                <li>Reputable</li>
+                <div class="li-description">Hundreds of testemonials from a variety of clients and project types.</div>
+                <li>Dedicated</li>
+                <div class="li-description">Start to finish determination to deliver 100% satisfaction. Every time.</div>
+              </ul>
+            </div>
+            <div class="content-description">
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+            </div>
+            <a class="lightbox" href="#wider-laundry">
+               <img src="images/wider_laundry.png" alt="">
+               <img src="images/wider_laundry.png" alt="">
+               <img src="images/wider_laundry.png" alt="">
+            </a>
+            <div class="lightbox-target" id="wider-laundry">
+               <img src="images/wider_laundry.png" alt="">
+               <a class="lightbox-close" href="#test"></a>
+            </div>
+        </div><!-- END REMODELING -->
+        <div class="content-container services" id="waste-removal"> <!-- WASTE REMOVAL -->
+          <div class="content-top-bar"></div>
+          <div class="content-header">
+            <h1>Waste Removal</h1>
+          </div>
+          <div class="content-sidebar">
+            <ul>
+              <li>Experienced</li>
+              <div class="li-description">Multiple full time employees with more than 20 years experience.</div>
+              <li>Reputable</li>
+              <div class="li-description">Hundreds of testemonials from a variety of clients and project types.</div>
+              <li>Dedicated</li>
+              <div class="li-description">Start to finish determination to deliver 100% satisfaction. Every time.</div>
+            </ul>
+          </div>
+          <div class="content-description">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+          </div>
+          <a class="lightbox" href="#wider-laundry">
+             <img src="images/wider_laundry.png" alt="">
+             <img src="images/wider_laundry.png" alt="">
+             <img src="images/wider_laundry.png" alt="">
+          </a>
+          <div class="lightbox-target" id="wider-laundry">
+             <img src="images/wider_laundry.png" alt="">
+             <a class="lightbox-close" href="#test"></a>
+          </div>
+        </div><!-- END WASTE REMOVAL -->
+      </div><!-- END SERVICES CONTAINER -->
+      <div class="footer-container">
+        <div class="footer-inner">
+          <div class="footer-section">
+            <h3>Photos</h3>
+          </div>
+          <div class="footer-section">
+            <h3>Testimonials</h3>
+            <br>
+            <q>Crapstar is the coolest person I've ever met</q>
+          </div>
+          <div class="footer-section">
+            <h3>Contact Us Today</h3>
+            <br>
+            123 fake street
+            <br>
+            Burlington, VT 05401
+            <br>
+            (413) 522-3869
+          </div>
+        </div>
+      </div>
+    </div><!-- END CONTAINER -->
+  </body>
+</html>
